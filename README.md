@@ -1,2 +1,2 @@
-# Cat-And-Mouse-Chase-Simulator
-Cat and Mouse Chase – A fun mobile chasing game built in Unity
+# Crazy Lava Gorilla & Kaiju
+Crazy Lava Gorilla & Kaiju – A fun mobile game built in Unity
